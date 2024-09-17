@@ -53,6 +53,6 @@ Autocorrelation
 ![Screenshot 2024-09-14 203546](https://github.com/user-attachments/assets/d0e41c36-8971-454d-83d0-cf5cea1ab23d)
 
 
-RESULT:
+# RESULT:
 
 Thus, a python program is created to fir ARMA Model successfully.
